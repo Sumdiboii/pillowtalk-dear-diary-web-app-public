@@ -3,9 +3,10 @@
 
 <p align="center">
   
-  <img src="https://github.com/user-attachments/assets/7b8a4427-598a-432c-ad18-a0f3958b2dff" width="100" alt="Orange Ledger/Notebook Icon"/>
+  <img src="read-me-images/maple-leaf.png"  width="100" alt="Maple leaf image" />
   
 </p>
+
 
 
 <h1 align="center" style="color:#FF6F61;"> 🍂 PillowTalk: Dear Diary 🍂 </h1> 
@@ -17,15 +18,17 @@
 <br>
 <br>
 
-![Copy of Your paragraph text (3)](https://github.com/user-attachments/assets/19c55701-655e-4248-801d-24037d550445)
+<p align="center">
+  <img src="read-me-images/Copy of Your paragraph text (3).png" alt="PillowTalk App Main Visual" />
+</p>
 
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b87d95c8-8715-444b-b034-2f5325d7b6a7" width="75" alt="Orange Notebook" />
-  <img src="https://github.com/user-attachments/assets/29380468-02ad-49c7-9403-33610cab5209" width="100" alt="Orange Clipboard" />
-  <img src="https://github.com/user-attachments/assets/b87d95c8-8715-444b-b034-2f5325d7b6a7" width="75" alt="Orange Open Book" />
+  <img src="read-me-images/autumn.png" alt="Autumn related image" width="75" />
+  <img src="read-me-images/tree.png" alt="Tree image" width="100" />
+  <img src="read-me-images/autumn.png" alt="Autumn related image" width="75" />
 </p>
 
 <br>
@@ -33,7 +36,7 @@
 
 
 
-<p align="center">
+ <p align="center">
 <a href="https://pillowtalk-dear-diary-web-app.vercel.app/">
 <img src="https://img.shields.io/badge/View%20the%20Project-Live%20Demo-blue?style=for-the-badge&amp;logo=vercel" alt="🚀 View the Project" />
 </a>
@@ -66,18 +69,21 @@ I built this application to gain hands-on experience with modern full-stack deve
 
 <br><br>
 
-![Screenshot 2025-06-03 004447](https://github.com/user-attachments/assets/e6238258-26c8-4d70-bcd6-5ede65a7535c)
-
-![Screenshot 2025-06-03 004521](https://github.com/user-attachments/assets/e0968039-55a4-4050-84a4-37fd9995c478)
-
-![Screenshot 2025-06-03 004610](https://github.com/user-attachments/assets/fdd64ed0-62ab-435d-8b68-eea180d6169c)
-
-![Screenshot 2025-06-03 004932](https://github.com/user-attachments/assets/d3562bc3-5455-4a79-bb83-17e1a33d92f8)
-
-![Screenshot 2025-06-03 005003](https://github.com/user-attachments/assets/36b963d9-5ec6-42d9-b6d3-c9f7228a56ac)
-
-![Screenshot 2025-06-03 004539](https://github.com/user-attachments/assets/83707519-b9c6-467f-8c0c-d9bede1c445f)
-
+<p align="center">
+  
+  <img src="read-me-images/Screenshot 2025-06-03 004521.png" alt="Screenshot 2025-06-03 004521" />
+  
+  <img src="read-me-images/Screenshot 2025-06-03 004447.png" alt="Screenshot 2025-06-03 004447" />
+  
+  <img src="read-me-images/Screenshot 2025-06-03 004932.png" alt="Screenshot 2025-06-03 004932" />
+  
+  <img src="read-me-images/Screenshot 2025-06-03 005003.png" alt="Screenshot 2025-06-03 005003" />
+  
+  <img src="read-me-images/Screenshot 2025-06-03 004610.png" alt="Screenshot 2025-06-03 004610" />
+  
+  <img src="read-me-images/Screenshot 2025-06-03 004539.png" alt="Screenshot 2025-06-03 004539" />
+  
+</p>
 <br>
 <br>
 
