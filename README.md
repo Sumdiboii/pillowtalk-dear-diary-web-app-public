@@ -134,7 +134,7 @@ I look forward to integrating more advanced features into PillowTalk, such as AI
 <p>
   🧢 Sumdiboii – Student & Aspiring Full-Stack Developer 
   <br>
-  Connect: <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a> 
+  Connect: <a href="https://linkedin.com/in/sumedh-pimplikar" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a> 
 </p>
 
 <br><br>
