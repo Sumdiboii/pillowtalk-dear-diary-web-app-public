@@ -103,7 +103,7 @@ I built this application to gain hands-on experience with modern full-stack deve
     <tr><td><strong>React</strong></td><td>Frontend JavaScript library for building the user interface, ensuring a responsive and interactive experience</td></tr>
     <tr><td><strong>Node.js</strong></td><td>JavaScript runtime environment for the backend, enabling fast and scalable server-side development</td></tr>
     <tr><td><strong>JSON Web Tokens (JWT)</strong></td><td>Secure user authentication and authorization for protecting private diary entries</td></tr>
-    <tr><td><strong>Natural Language Processing (NLP) Library (e.g., scikit-learn for Naive Bayes)</strong></td><td>For sentiment analysis using **Naive Bayes** to recommend templates based on mood</td></tr>
+    <tr><td><strong>Natural Language Processing (NLP) </strong></td><td>For sentiment analysis using  to recommend templates based on mood</td></tr>
     <tr><td><strong>Cloud Storage API</strong></td><td>(e.g., Google Drive API) For enabling users to upload and backup their entries to personal cloud drives</td></tr>
   </tbody>
 </table>
@@ -115,7 +115,7 @@ I built this application to gain hands-on experience with modern full-stack deve
 <ul>
   <li>Mastered full-stack development with the MERN stack, from database design to UI/UX implementation</li>
   <li>Implemented robust user authentication and authorization, including 2-step verification, to ensure data privacy</li>
-  <li>Explored and applied Natural Language Processing (NLP) techniques, specifically **Naive Bayes for sentiment analysis**, to personalize user experience</li>
+  <li>Explored and applied Sentiment Analysis techniques to personalize user experience</li>
   <li>Developed a comprehensive understanding of CRUD operations for efficient data management</li>
   <li>Gained practical experience in building a secure, scalable, and user-centric web application</li>
 </ul>
@@ -134,7 +134,7 @@ I look forward to integrating more advanced features into PillowTalk, such as AI
 <p>
   🧢 Sumdiboii – Student & Aspiring Full-Stack Developer 
   <br>
-  Connect: <a href="https://linkedin.com/in/sumedh-pimplikar" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a> 
+  Connect: <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a> 
 </p>
 
 <br><br>
@@ -142,3 +142,6 @@ I look forward to integrating more advanced features into PillowTalk, such as AI
 <footer style="text-align:center; font-size:1.1rem; color:#0047AB;">
   Ready to embark on your journaling journey? ✍️ Discover yourself with PillowTalk! 💖
 </footer>
+
+
+Note: The current deployment has the uploading to drive feature and mongodb integration removed as it costs money to deploy the website using these services. I used to use the free shared cluster but it has since been removed forcing me to switch to an alternative database selection.
