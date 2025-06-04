@@ -37,7 +37,7 @@
 
 
  <p align="center">
-<a href="https://pillowtalk-dear-diary-web-app.vercel.app/">
+<a href="https://pillowtalk-dear-diary-web-app-git-se-08ba82-sumdiboiis-projects.vercel.app">
 <img src="https://img.shields.io/badge/View%20the%20Project-Live%20Demo-blue?style=for-the-badge&amp;logo=vercel" alt="🚀 View the Project" />
 </a>
 </p>
